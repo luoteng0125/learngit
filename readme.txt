@@ -12,4 +12,7 @@ $scope.EntBasicInfoQuery = function() {
 	};
 
 
+
 Creating a new branch is quick AND simple
+
+
